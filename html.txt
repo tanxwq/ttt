@@ -6,5 +6,5 @@
 	<p>sdijs</p>
 	<h1>vzfzs</h1>
 	<img src="C:/Users/WebSkill/Desktop/WebSkill/курильців Юрій/images/player4.png">
-	</body>
+	</body>/jy
 </html>jk
